@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-//Student data
+//Nest data
 int pigeonID = 15;
 int pigeonAge = 23;
 float nestFee = 75.25;
